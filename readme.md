@@ -1,14 +1,15 @@
 ## Readme for for Chatbot Q&A in Invoice Extractor 
 =====================================
 
-![alt text](<Tamal single invoice extractor.PNG>)
+![Tamal single invoice extractor](https://github.com/user-attachments/assets/6e0003fb-dcb7-4182-afae-6fcdefaeaa94)
+
 
 ### Q: What is the Invoice Extractor?
 The Invoice Extractor markdown is a specific format used to extract relevant information from invoices. It's a standardized way to annotate invoices with key information, making it easier to automate the extraction process.
 
 * Here's a breakdown of the typical components of an Invoice Extractor markdown (Example):
 
-![alt text](<invoice demo.jpg>)
+![invoice demo](https://github.com/user-attachments/assets/626fc133-265b-4f0e-bb33-4efd8e54ca71)
 
 
 1. Header
@@ -31,12 +32,12 @@ The Invoice Extractor markdown is a specific format used to extract relevant inf
 ### Q: What is its Purpose?
 The purpose of this Chatbot Q&A is to provide a conversational interface for users to interact with multilanguage invoices on single window and with only one file only.
 
-### Q: How to use?
+### Q: How to use it?
 * Upload an Invoice Image: Click on "Choose an image of the invoice" and select an image file.
 * Enter a Prompt: Provide a text prompt for querying the invoice content.
 
-![alt text](input_demo.png)
+![input_demo](https://github.com/user-attachments/assets/e273c041-82a0-4ad0-8ee5-2fbf6c4c107b)
 
 * Submit: Click the "Tell me about the invoice" button to receive a response.
 
-![alt text](output_demo.png)
+![output_demo](https://github.com/user-attachments/assets/ab03b1e8-216d-459b-bb0f-a18edb747c2a)
