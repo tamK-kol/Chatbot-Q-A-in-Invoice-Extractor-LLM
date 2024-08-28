@@ -8,7 +8,7 @@ The Invoice Extractor markdown is a specific format used to extract relevant inf
 
 * Here's a breakdown of the typical components of an Invoice Extractor markdown (Example):
 
-![alt text](<invoice demo.jpg>)
+general/invoice demo.jpg
 
 
 1. Header
