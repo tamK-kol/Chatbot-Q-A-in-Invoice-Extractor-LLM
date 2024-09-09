@@ -1,6 +1,9 @@
 ## Documentation for Chatbot Q&A in Invoice Extractor
 =====================================
 
+![alt text](<app_images/Tamal single invoice extractor.PNG>)
+
+
 ### Overview
 This project is a Streamlit application that uses Google's Gemini Pro Vision model to extract and analyze information from invoice images. The application allows users to upload an invoice image and enter a text prompt to receive responses based on the content of the invoice.
 
