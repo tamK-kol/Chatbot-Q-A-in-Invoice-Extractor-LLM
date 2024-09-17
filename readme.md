@@ -5,7 +5,7 @@
 
 
 ### Q: What is the Invoice Extractor?
-The Invoice Extractor markdown is a specific format used to extract relevant information from invoices. It's a standardized way to annotate invoices with key information, making it easier to automate the extraction process.
+The Invoice Extractor is a specific tool to extract relevant information from invoices. It's a standardized way to annotate invoices with key information, making it easier to automate the extraction process.
 
 * Here's a breakdown of the typical components of an Invoice Extractor markdown (Example):
 
